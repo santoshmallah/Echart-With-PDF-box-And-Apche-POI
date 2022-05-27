@@ -5,3 +5,6 @@
         npm install canvas
 # Step-2. Run server1.js file 
         node server1.js
+
+
+* Remove commented code to work with PDF Box
